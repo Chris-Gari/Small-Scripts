@@ -1,0 +1,21 @@
+human
+elf
+dwarf
+orc
+halfling
+dragonborn
+tiefling
+gnome
+aasimar
+goblin
+caucasian
+hispanic
+latino
+african american
+asian
+native american
+middle eastern
+pacific islander
+southeast asian
+south asian
+european
